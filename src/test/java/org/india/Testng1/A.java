@@ -37,8 +37,10 @@ public class A {
 	private void QuiteBrowser() {
 
 		System.out.println("QuitBrowser");
-	}
-	public static void main(String[] args) {
+		System.out.println("Git checkup");
+		
+		
+		
 		
 	}
 
