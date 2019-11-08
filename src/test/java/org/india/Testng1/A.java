@@ -38,5 +38,8 @@ public class A {
 
 		System.out.println("QuitBrowser");
 	}
+	public static void main(String[] args) {
+		
+	}
 
 }
